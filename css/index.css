@@ -1,0 +1,20 @@
+body {
+  margin: 0;
+  font-family: 'Old Standard TT', serif;
+}
+
+.principal-navar {
+  background-color: #363636;
+}
+
+.menu {
+  padding-right: 5rem;
+  background-image: url('../image/fondo.jpeg');
+  height: 100%;
+  width: 100%;
+  background-size: cover;
+}
+
+.letter {
+  color: white;
+}
